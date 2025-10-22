@@ -62,5 +62,27 @@ data/processed/
 outputs/
 results/
 
+# GIS and Satellite Data (large files)
+*.tif
+*.tiff
+*.jp2
+*.geotiff
+*.hdf
+*.nc
+*.img
+*.bil
+*.bsq
+*.bip
+
+# Generated HTML maps (can be regenerated)
+mapa_*.html
+index.html
+
+# Temporary shapefiles components (keep only .shp, .shx, .dbf, .prj)
+*.cpg
+*.sbn
+*.sbx
+*.shp.xml
+
 # OS
 Thumbs.db
