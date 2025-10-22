@@ -21,6 +21,7 @@ decorator==5.2.1
 defusedxml==0.7.1
 earthengine-api==1.6.13
 executing==2.2.1
+geemap
 fastjsonschema==2.21.2
 fonttools==4.60.1
 fqdn==1.5.1
